@@ -1,4 +1,4 @@
 # Titanic-machine-learning-project
-The purpose of this project was to analyze the dataset of Titanic, but also to use a logistic regression models on it and to improve them in order to make predictions.
+The purpose of this project was to analyze the Titanic dataset and to predict whether a passenger survived the accident or not using using a logistic regression model.
 For this project, I used the dataset of Titanic updated by Thomas Cason. I found this dataset on Kaggle on Vinicius Barbosa Paiva's page. Here is the link: https://www.kaggle.com/datasets/vinicius150987/titanic3
-You will find the find the file of my whole code for this project, but also the project report.
+You will find the find the files of my code and my report for this project.
